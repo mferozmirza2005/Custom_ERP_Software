@@ -1,0 +1,10 @@
+D:\epr porject\Epr Accounting Project\Epr Accounting Project\bin\Debug\Epr Accounting Project.exe.config
+D:\epr porject\Epr Accounting Project\Epr Accounting Project\bin\Debug\Epr Accounting Project.exe
+D:\epr porject\Epr Accounting Project\Epr Accounting Project\bin\Debug\Epr Accounting Project.pdb
+D:\epr porject\Epr Accounting Project\Epr Accounting Project\obj\Debug\Epr Accounting Project.csproj.AssemblyReference.cache
+D:\epr porject\Epr Accounting Project\Epr Accounting Project\obj\Debug\Epr_Accounting_Project.Form1.resources
+D:\epr porject\Epr Accounting Project\Epr Accounting Project\obj\Debug\Epr_Accounting_Project.Properties.Resources.resources
+D:\epr porject\Epr Accounting Project\Epr Accounting Project\obj\Debug\Epr Accounting Project.csproj.GenerateResource.cache
+D:\epr porject\Epr Accounting Project\Epr Accounting Project\obj\Debug\Epr Accounting Project.csproj.CoreCompileInputs.cache
+D:\epr porject\Epr Accounting Project\Epr Accounting Project\obj\Debug\Epr Accounting Project.exe
+D:\epr porject\Epr Accounting Project\Epr Accounting Project\obj\Debug\Epr Accounting Project.pdb
