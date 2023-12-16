@@ -1,0 +1,14 @@
+D:\erp\erp\bin\Debug\erp.exe.config
+D:\erp\erp\bin\Debug\erp.exe
+D:\erp\erp\bin\Debug\erp.pdb
+D:\erp\erp\bin\Debug\FontAwesome.Sharp.dll
+D:\erp\erp\obj\Debug\erp.csproj.AssemblyReference.cache
+D:\erp\erp\obj\Debug\erp.Properties.Resources.resources
+D:\erp\erp\obj\Debug\erp.csproj.GenerateResource.cache
+D:\erp\erp\obj\Debug\erp.csproj.CoreCompileInputs.cache
+D:\erp\erp\obj\Debug\erp.csproj.CopyComplete
+D:\erp\erp\obj\Debug\erp.exe
+D:\erp\erp\obj\Debug\erp.pdb
+D:\erp\erp\obj\Debug\erp.Dashborad.resources
+D:\erp\erp\obj\Debug\erp.LogInform.resources
+D:\erp\erp\obj\Debug\erp.Signup.resources
